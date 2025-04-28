@@ -10,55 +10,7 @@ I enjoy turning designs interfaces and bringing life to the web through animatio
 🔹 Always learning and staying updated with the latest in web tech
 🔹 Looking to grow as a developer and contribute to impactful digital products
 
-  <style>
-    body {
-      background-color: #111;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
 
-    .pixel-art {
-      display: grid;
-      grid-template-columns: repeat(12, 10px);
-      grid-template-rows: repeat(12, 10px);
-      gap: 1px;
-    }
-
-    .pixel {
-      width: 10px;
-      height: 10px;
-      background-color: transparent;
-    }
-
-    .skin { background-color: #f1c27d; }
-    .hair { background-color: #3e2723; }
-    .shirt { background-color: #1565c0; }
-    .computer { background-color: #b0bec5; }
-    .keyboard { background-color: #616161; }
-    .eyes { background-color: #000; }
-  </style>
-</head>
-<body>
-  <div class="pixel-art">
-    <!-- Hair -->
-    <div class="pixel"></div><div class="pixel"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-    <div class="pixel"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-    
-    
-    <div class="pixel"></div><div class="pixel hair"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel eyes"></div><div class="pixel skin"></div><div class="pixel eyes"></div><div class="pixel skin"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-    <div class="pixel"></div><div class="pixel hair"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-
-    
-    <div class="pixel"></div><div class="pixel"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-    <div class="pixel"></div><div class="pixel"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-    
-   
-    <div class="pixel"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel"></div>
-    <div class="pixel"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel"></div>
-
-  
-    <div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
-    <div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
- 
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="300" alt="Coder in pixel art">
+</p>
