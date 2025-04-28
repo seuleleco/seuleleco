@@ -10,22 +10,55 @@ I enjoy turning designs interfaces and bringing life to the web through animatio
 🔹 Always learning and staying updated with the latest in web tech
 🔹 Looking to grow as a developer and contribute to impactful digital products
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <style>
+    body {
+      background-color: #111;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
 
----
+    .pixel-art {
+      display: grid;
+      grid-template-columns: repeat(12, 10px);
+      grid-template-rows: repeat(12, 10px);
+      gap: 1px;
+    }
 
-### 🔧 Tools & Technologies
+    .pixel {
+      width: 10px;
+      height: 10px;
+      background-color: transparent;
+    }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git" alt="Skills" />
-</p>
+    .skin { background-color: #f1c27d; }
+    .hair { background-color: #3e2723; }
+    .shirt { background-color: #1565c0; }
+    .computer { background-color: #b0bec5; }
+    .keyboard { background-color: #616161; }
+    .eyes { background-color: #000; }
+  </style>
+</head>
+<body>
+  <div class="pixel-art">
+    <!-- Hair -->
+    <div class="pixel"></div><div class="pixel"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    <div class="pixel"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    
+    
+    <div class="pixel"></div><div class="pixel hair"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel eyes"></div><div class="pixel skin"></div><div class="pixel eyes"></div><div class="pixel skin"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    <div class="pixel"></div><div class="pixel hair"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel skin"></div><div class="pixel hair"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
 
----
+    
+    <div class="pixel"></div><div class="pixel"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    <div class="pixel"></div><div class="pixel"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel shirt"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    
+   
+    <div class="pixel"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel"></div>
+    <div class="pixel"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel computer"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel keyboard"></div><div class="pixel"></div>
 
-### ⚡ Fun GIF
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
-</p>
+  
+    <div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    <div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+ 
