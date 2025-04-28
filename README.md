@@ -13,7 +13,7 @@ Hello! I’m a motivated and creative front-end developer with a growing passion
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90">
 
 </div>
 I enjoy turning designs interfaces and bringing life to the web through animations, interactivity, and seamless user experiences.
