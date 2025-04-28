@@ -12,5 +12,5 @@ I enjoy turning designs interfaces and bringing life to the web through animatio
 
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="300" alt="Coder in pixel art">
+  <img src="https://i.gifer.com/JXA0.gif">
 </p>
