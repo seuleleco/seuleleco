@@ -1,16 +1,31 @@
-## Hi there 👋
+🌟 Front-End Developer | Passionate About Crafting Clean, Responsive & Interactive Web Experiences 🌟
 
-<!--
-**seuleleco/seuleleco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m a motivated and creative front-end developer with a growing passion for building engaging and user-friendly websites and applications. I specialize in:
 
-Here are some ideas to get you started:
+💻 HTML | CSS | JavaScript | React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning designs interfaces and bringing life to the web through animations, interactivity, and seamless user experiences.
+
+🔹 Eager to collaborate on exciting projects
+🔹 Always learning and staying updated with the latest in web tech
+🔹 Looking to grow as a developer and contribute to impactful digital products
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git" alt="Skills" />
+</p>
+
+---
+
+### ⚡ Fun GIF
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+</p>
