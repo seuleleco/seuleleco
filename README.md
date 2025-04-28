@@ -4,7 +4,7 @@ Hello! I’m a motivated and creative front-end developer with a growing passion
 
 💻 HTML | CSS | JavaScript | React
 <br>
-<div align="center"
+<div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cjc0aWd3MzN5Mnl4M3Nwa284Y29rMWtvM3Zub3JwY3Q2MXlxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="90">
 
 
