@@ -1,4 +1,11 @@
-🌟 Front-End Developer | Passionate About Crafting Clean, Responsive & Interactive Web Experiences 🌟
+🌟 Desenvolvedor Front-End | Apaixonado por criar experiências web responsivas e interativas 🌟
+
+Olá! Sou um desenvolvedor front-end motivado e criativo, com uma paixão crescente por criar sites e aplicativos envolventes e fáceis de usar. Sou especialista em:
+
+💻 HTML | CSS | JavaScript | React
+
+<strong>English</strong>
+🌟 Front-End Developer | Passionate About Crafting Responsive & Interactive Web Experiences 🌟
 
 Hello! I’m a motivated and creative front-end developer with a growing passion for building engaging and user-friendly websites and applications. I specialize in:
 
