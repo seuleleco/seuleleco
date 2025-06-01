@@ -4,8 +4,8 @@ Olá! Sou um desenvolvedor front-end motivado e criativo, com uma paixão cresce
 
 💻 HTML | CSS | JavaScript | React
 <br>
-
-<strong>English</strong>
+<br>
+<strong>-English</strong>
 <br>
 🌟 Front-End Developer | Passionate About Crafting Responsive & Interactive Web Experiences 🌟
 
@@ -35,7 +35,7 @@ Gosto de criar interfaces e dar vida à web por meio de animações, interativid
 🔹 Buscando crescer como desenvolvedor e contribuir para produtos digitais impactantes
 <br>
 <br>
-<strong>English</strong>
+<strong>-English</strong>
 <br>
 I enjoy turning designs interfaces and bringing life to the web through animations, interactivity, and seamless user experiences.
 <br>
