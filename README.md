@@ -26,7 +26,8 @@ Hello! I’m a motivated and creative front-end developer with a growing passion
 
 💻 HTML | CSS | JavaScript | React
 <br>
-
+<br>
+<br>
 Gosto de criar interfaces e dar vida à web por meio de animações, interatividade e experiências de usuário fluidas.
 <br>
 🔹 Ansioso para colaborar em projetos empolgantes
